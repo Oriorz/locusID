@@ -1,6 +1,11 @@
 {
   "name": "codersneverquit-tut",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.13.2",
+    "npm": "8.4.1"
+  },
+
   "description": "",
   "main": "app.js",
   "scripts": {
